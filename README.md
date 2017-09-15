@@ -9,7 +9,7 @@ HSCountDownBtn, subclassing UIButton implementation iOS countdown button, regist
 ==============
 查看并运行 `HSCountDownBtn.xcodeproj`
 
-![效果图](https://github.com/Hanwp/HWDownSelectedView/blob/master/Demo/选择框gif.gif)
+![效果图](https://github.com/tukzi/HSCountDownBtn/blob/master/demo.gif)
 
 
 系统要求
